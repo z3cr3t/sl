@@ -1,0 +1,14 @@
+deb http://us-east-1.ec2.archive.ubuntu.com/ubuntu/ xenial main                                                                                                                                                 
+deb-src http://us-east-1.ec2.archive.ubuntu.com/ubuntu/ xenial main                                                                                                                                             
+deb http://us-east-1.ec2.archive.ubuntu.com/ubuntu/ xenial-updates main                                                                                                                                         
+deb-src http://us-east-1.ec2.archive.ubuntu.com/ubuntu/ xenial-updates main                                                                                                                                     
+deb http://us-east-1.ec2.archive.ubuntu.com/ubuntu/ xenial universe                                                                                                                                             
+deb-src http://us-east-1.ec2.archive.ubuntu.com/ubuntu/ xenial universe                                                                                                                                         
+deb http://us-east-1.ec2.archive.ubuntu.com/ubuntu/ xenial-updates universe                                                                                                                                     
+deb-src http://us-east-1.ec2.archive.ubuntu.com/ubuntu/ xenial-updates universe                                                                                                                                 
+deb http://security.ubuntu.com/ubuntu xenial-security main                                                                                                                                                      
+deb-src http://security.ubuntu.com/ubuntu xenial-security main                                                                                                                                                  
+deb http://security.ubuntu.com/ubuntu xenial-security universe                                                                                                                                                  
+deb http://archive.ubuntu.com/ubuntu xenial universe                                                                                                                                                            
+# deb-src http://archive.ubuntu.com/ubuntu xenial universe                                                                                                                                                      
+deb-src http://security.ubuntu.com/ubuntu xenial-security universe
